@@ -27,4 +27,5 @@ It uses H2 in memory databse for storing data.
 
 6. to get the media coverage of the book : localhost:8080/rest/get_media_coverage/title
 
+![image](https://user-images.githubusercontent.com/20955975/82143245-13853200-9860-11ea-8256-5225c8e480ca.png)
 

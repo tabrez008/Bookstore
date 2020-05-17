@@ -24,3 +24,7 @@ It uses H2 in memory databse for storing data.
 5. getting book by providing author : localhost:8080/rest/get_book_by_author/author
 
 ![image](https://user-images.githubusercontent.com/20955975/82143203-bc7f5d00-985f-11ea-871f-5dcea157e0d7.png)
+
+6. to get the media coverage of the book : localhost:8080/rest/get_media_coverage/title
+
+

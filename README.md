@@ -19,3 +19,4 @@ It uses H2 in memory databse for storing data.
 
 4. for getting book by providing book title : localhost:8080/rest/get_book_by_title/title
 
+![image](https://user-images.githubusercontent.com/20955975/82143103-fac84c80-985e-11ea-84eb-1ccd42f71c28.png)
